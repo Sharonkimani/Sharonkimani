@@ -35,7 +35,7 @@ I enjoy working at the intersection of actuarial science, data science, machine 
 
 ### 💻 Data Science & Machine Learning  
 - Regression, Classification, Time Series  
-- Deep Learning (CNNs)  
+- Deep Learning 
 - Feature Engineering & Model Evaluation  
 
 ### 📈 Data Analytics & Visualization  
@@ -58,16 +58,13 @@ Python | R | SQL
 Pandas | NumPy | SciPy | scikit-learn | TensorFlow | Keras | Flask  
 
 **Databases**  
-MySQL | MongoDB | SQLite  
-
-**DevOps & Deployment**  
-Docker | AWS | Heroku  
+MySQL | MongoDB | SQLite   
 
 **Tools**  
-GitHub | Anaconda | Trello | Power BI  
+GitHub| Power BI  
 
 **Documentation & Markup**  
-Markdown | LaTeX | HTML5 | CSS3  
+Markdown | LaTeX | HTML| CSS  
 
 ---
 
