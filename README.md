@@ -1,18 +1,82 @@
-# 💫 About Me:
-🎓 Actuarial Science Graduate | Data Science Enthusiast | Continuous Learner 📚<br><br>🎓 I hold a degree in Actuarial Science, providing me with a solid foundation in risk analysis, statistical modeling, and financial mathematics. 📈📊 <br><br>🌱 I've recently completed a nanodegree in Data Science, where I immersed myself in the thrilling realms of machine learning, data analysis, and data visualization. 💻🔍<br><br>🚀 Passionate about leveraging data-driven insights to drive informed decision-making, I thrive on the challenge of extracting meaningful patterns from complex datasets and transforming them into actionable strategies. 📊💡<br><br>💡 As a continuous learner, I'm always seeking new opportunities to expand my skills and stay up-to-date with the latest advancements in the field. I believe in the power of collaboration and open-source contributions to create innovative solutions. 💪✨<br><br>✉️ Let's connect and explore how data science can be harnessed to tackle real-world challenges together. Feel free to reach out! 🤝📧
+# 👋 Hi, I’m Sharon Kimani  
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sharon-kimani-b4b84624b) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-
-
-
-
+🎓 Actuarial Science Graduate | Actuarial Officer | Data Science & Climate Risk Analytics Specialist  
+📍 Nairobi, Kenya  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Sharonkimani&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me  
+
+I am an Actuarial Science graduate and Data Science professional with strong experience in insurance risk modelling, climate analytics, and product development. I specialize in developing pricing models, building predictive systems, and translating complex datasets into actionable insights.
+
+My work focuses on climate risk insurance, agricultural and index-based products, portfolio sustainability, and business intelligence. I am passionate about using data, technology, and actuarial science to strengthen financial resilience and support evidence-based decision-making.
+
+I enjoy working at the intersection of actuarial science, data science, machine learning, and geospatial analytics to solve real-world problems in emerging markets.
+
+---
+
+## 🚀 What I’m Working On  
+
+- Climate and weather index insurance modelling  
+- Risk pricing and sensitivity analysis  
+- Machine learning for insurance and finance  
+- Geospatial and satellite data analytics  
+- Portfolio monitoring and BI dashboards  
+
+---
+
+## 🧠 Skills & Expertise  
+
+### 📊 Actuarial & Risk Analytics  
+- Pricing Models & Loss Analysis  
+- Exposure & Sensitivity Analysis  
+- Climate & Weather Index Insurance  
+- Portfolio Risk Management  
+
+### 💻 Data Science & Machine Learning  
+- Regression, Classification, Time Series  
+- Deep Learning (CNNs)  
+- Feature Engineering & Model Evaluation  
+
+### 📈 Data Analytics & Visualization  
+- Power BI, Tableau, Matplotlib, Plotly  
+- Dashboard Design & Reporting  
+
+### 🗄️ Data Management  
+- Data Cleaning & Validation  
+- ETL & Reconciliation  
+- Database Management  
+
+---
+
+## 🛠️ Tech Stack  
+
+**Languages**  
+Python | R | SQL  
+
+**Libraries & Frameworks**  
+Pandas | NumPy | SciPy | scikit-learn | TensorFlow | Keras | Flask  
+
+**Databases**  
+MySQL | MongoDB | SQLite  
+
+**DevOps & Deployment**  
+Docker | AWS | Heroku  
+
+**Tools**  
+GitHub | Anaconda | Trello | Power BI  
+
+**Documentation & Markup**  
+Markdown | LaTeX | HTML5 | CSS3  
+
+---
+
+## 🤝 Let’s Connect  
+
+📫 Email: kimanisharon23@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/sharon-kimani-b4b84624b/  
+🌐 Portfolio: https://sharonkimani.github.io/  
+
+---
+
+⭐ *I’m always open to collaboration on data science, actuarial, and climate risk projects. Feel free to reach out!*
