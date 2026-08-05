@@ -73,7 +73,6 @@ I enjoy solving challenging problems at the intersection of insurance, climate r
 * Power BI Dashboards
 * Tableau
 * Data Storytelling
-* KPI Development
 * Business Intelligence
 * Interactive Reporting
 
