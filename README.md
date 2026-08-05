@@ -4,9 +4,13 @@
 
 📍 Nairobi, Kenya
 
-I'm a **Senior Actuarial Officer** specializing in **climate risk insurance, actuarial pricing, and data science**. I design innovative insurance products that help farmers, financial institutions, and insurers manage climate-related risks across Africa.
+I'm a **Senior Actuarial Officer** passionate about designing innovative insurance solutions that strengthen financial resilience for farmers, financial institutions, and vulnerable communities across Africa.
 
-My work combines **actuarial science, machine learning, satellite data, and geospatial analytics** to build robust pricing models, monitor portfolio performance, and develop scalable parametric insurance solutions.
+My expertise spans actuarial pricing, climate risk modelling, agricultural and parametric insurance, portfolio analytics, and product development. I work extensively with weather, vegetation, and soil moisture indices to develop data-driven insurance products that protect against drought, excess rainfall, frost, and other climate-related risks.
+
+Beyond actuarial science, I leverage data science, machine learning, geospatial analytics, and satellite data to transform complex datasets into actionable insights for product design, portfolio management, and strategic decision-making.
+
+I enjoy solving challenging problems at the intersection of insurance, climate resilience, data science, and emerging technologies.
 
 ---
 
