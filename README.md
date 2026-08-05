@@ -1,79 +1,147 @@
-# 👋 Hi, I’m Sharon Kimani  
+# 👋 Hi, I'm Sharon Kimani
 
-🎓 Actuarial Science Graduate | Actuarial Officer | Data Science & Climate Risk Analytics Specialist  
-📍 Nairobi, Kenya  
+### Senior Actuarial Officer | Climate Risk & Parametric Insurance Specialist | Data Scientist
 
----
+📍 Nairobi, Kenya
 
-## 💫 About Me  
+I'm a **Senior Actuarial Officer** specializing in **climate risk insurance, actuarial pricing, and data science**. I design innovative insurance products that help farmers, financial institutions, and insurers manage climate-related risks across Africa.
 
-I am an Actuarial Science graduate and Data Science professional with strong experience in insurance risk modelling, climate analytics, and product development. I specialize in developing pricing models, building predictive systems, and translating complex datasets into actionable insights.
-
-My work focuses on climate risk insurance, agricultural and index-based products, portfolio sustainability, and business intelligence. I am passionate about using data, technology, and actuarial science to strengthen financial resilience and support evidence-based decision-making.
-
-I enjoy working at the intersection of actuarial science, data science, machine learning, and geospatial analytics to solve real-world problems in emerging markets.
+My work combines **actuarial science, machine learning, satellite data, and geospatial analytics** to build robust pricing models, monitor portfolio performance, and develop scalable parametric insurance solutions.
 
 ---
 
-## 🚀 What I’m Working On  
+## 🚀 What I'm Currently Working On
 
-- Climate and weather index insurance modelling  
-- Risk pricing and sensitivity analysis  
-- Machine learning for insurance and finance  
-- Geospatial and satellite data analytics  
-- Portfolio monitoring and BI dashboards  
-
----
-
-## 🧠 Skills & Expertise  
-
-### 📊 Actuarial & Risk Analytics  
-- Pricing Models & Loss Analysis  
-- Exposure & Sensitivity Analysis  
-- Climate & Weather Index Insurance  
-- Portfolio Risk Management  
-
-### 💻 Data Science & Machine Learning  
-- Regression, Classification, Time Series  
-- Deep Learning 
-- Feature Engineering & Model Evaluation  
-
-### 📈 Data Analytics & Visualization  
-- Power BI, Tableau, Matplotlib, Plotly  
-- Dashboard Design & Reporting  
-
-### 🗄️ Data Management  
-- Data Cleaning & Validation  
-- ETL & Reconciliation  
-- Database Management  
+* 🌦️ Weather & Climate Index Insurance
+* 🌱 Agricultural & Parametric Insurance Products
+* 📊 Actuarial Pricing & Risk Modelling
+* 🛰️ Satellite Data & Geospatial Analytics
+* 📈 Portfolio Performance & Business Intelligence
+* 🤖 Machine Learning for Insurance
+* 🌍 Climate Risk Financing & Product Innovation
 
 ---
 
-## 🛠️ Tech Stack  
+## 🧠 Core Expertise
 
-**Languages**  
-Python | R | SQL  
+### 📊 Actuarial Science
 
-**Libraries & Frameworks**  
-Pandas | NumPy | SciPy | scikit-learn | TensorFlow | Keras | Flask  
+* Product Design & Development
+* Technical Pricing Models
+* Premium Rating
+* Loss Cost Modelling
+* Portfolio Risk Analysis
+* Reinsurance Analysis
+* Risk & Exposure Modelling
+* Product Performance Monitoring
 
-**Databases**  
-MySQL | MongoDB | SQLite   
+### 🌦️ Climate & Parametric Insurance
 
-**Tools**  
-GitHub| Power BI  
+* Weather Index Insurance (WII)
+* Area Yield Index Insurance (AYII)
+* Vegetation Health Index (VHI)
+* Soil Moisture Index (SMI)
+* Index-Based Livestock Insurance (IBLI)
+* Wind Index Insurance
+* Evapotranspiration Index Modelling
+* Climate Risk Financing
 
-**Documentation & Markup**  
-Markdown | LaTeX | HTML| CSS  
+### 🤖 Data Science & Machine Learning
+
+* Predictive Analytics
+* Regression & Classification
+* Time Series Forecasting
+* Deep Learning
+* Feature Engineering
+* Model Evaluation
+
+### 🛰️ Geospatial Analytics
+
+* Remote Sensing
+* NDVI Analysis
+* Rainfall Analytics
+* GIS & Spatial Analysis
+* Satellite Climate Data
+* Climate Data Processing
+
+### 📈 Data Analytics
+
+* Power BI Dashboards
+* Tableau
+* Data Storytelling
+* KPI Development
+* Business Intelligence
+* Interactive Reporting
+
+### 🗄️ Data Engineering
+
+* ETL Pipelines
+* Data Cleaning & Validation
+* Data Quality Assurance
+* Database Management
+* Workflow Automation
 
 ---
 
-## 🤝 Let’s Connect  
+## 🛠️ Tech Stack
 
-📫 Email: kimanisharon23@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/sharon-kimani-b4b84624b/  
-🌐 Portfolio: https://sharonkimani.github.io/  
+### Languages
+
+`Python` • `R` • `SQL`
+
+### Libraries
+
+`Pandas` • `NumPy` • `SciPy` • `scikit-learn` • `TensorFlow` • `Keras`
+
+### Climate & Geospatial Tools
+
+`QGIS` • `TAMSAT` • `CHIRPS`
+
+### Visualization
+
+`Power BI` • `Tableau` • `Plotly` • `Matplotlib`
+
+### Databases
+
+`MySQL` • `SQLite` • `MongoDB`
+
+### Development Tools
+
+`Git` • `GitHub` • `Jupyter Notebook` • `VS Code` • `PyCharm` • `RStudio` • `Excel` • `PowerPoint` • `LaTeX`
 
 ---
 
-⭐ *I’m always open to collaboration on data science, actuarial, and climate risk projects. Feel free to reach out!*
+## 📌 Featured Projects
+
+* 🌦️ Weather Index Insurance Pricing Models
+* 🌱 Soil Moisture Index Insurance Product Development
+* 🌿 Vegetation Health Index (VHI) Analytics
+* 💨 Wind Index Insurance Pricing Models
+* 🌡️ Evapotranspiration Index Pricing Models
+* 📊 Parametric Insurance Portfolio Analytics & Pricing
+* 🚜 Agricultural Insurance Portfolio Monitoring
+* 🤖 Machine Learning Models for Insurance
+* 📈 Business Intelligence Dashboards
+* 🌍 Climate Risk Analytics & Product Validation
+
+---
+
+## 🌍 Areas of Interest
+
+Climate Risk Insurance • Parametric Insurance • Agricultural Insurance • Disaster Risk Financing • Financial Inclusion • Machine Learning • Artificial Intelligence • Remote Sensing • Geospatial Analytics • Sustainable Insurance • Risk Management • Data Science for Social Impact
+
+---
+
+## 🤝 Let's Connect
+
+📧 **Email:** [kimanisharon23@gmail.com](mailto:kimanisharon23@gmail.com)
+
+💼 **LinkedIn:**
+https://www.linkedin.com/in/sharon-kimani-b4b84624b/
+
+🌐 **Portfolio:**
+https://sharonkimani.github.io/
+
+---
+
+> **"Turning climate data into financial resilience through actuarial science, analytics, and innovation."** 🌍📊
